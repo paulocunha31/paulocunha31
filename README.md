@@ -1,6 +1,6 @@
 ### Olá :sunglasses:
 
-Me chamo Paulo Roberto, sou um programador Front End, atualmente estou apredendo e criando projetos com:
+Me chamo Paulo Roberto, sou um programador Full Stack, atualmente estou apredendo e criando projetos com:
 <br>
 <br>
 
