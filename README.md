@@ -1,6 +1,6 @@
 ### Olá :sunglasses:
 
-Me chamo Paulo Roberto, sou um programador Full Stack, atualmente estou apredendo e criando projetos com:
+Eu sou Paulo Roberto, sou um programador Full Stack, atualmente estou apredendo e criando projetos com:
 <br>
 <br>
 
